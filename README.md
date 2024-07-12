@@ -1,4 +1,4 @@
-# molyb
+# Identification and characterization of eukaryotic Mo-insertases
 
 ```
 Usage:
