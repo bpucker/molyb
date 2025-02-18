@@ -1,5 +1,8 @@
 # Identification and characterization of eukaryotic Mo-insertases
 
+## calc_pos_conservation
+This script calculates the conservation of each position in a given polypeptide sequence alignment file for visualization on a 3D structure of the protein.
+
 ```
 Usage:
   python3 calc_pos_conservation.py --in <FILE> --ref <FILE> --out <DIR>
@@ -15,6 +18,9 @@ Usage:
 
 `--out` specifies the full path to the output file.
 
+
+## branch_length_comparison
+This script calculates the average patristic distance for a given taxon (based on given group of sequences). The given sequence IDs need to match between the tree file and the group file. All groups will be compared against all other groups. A U-test will be calculated to compare the patristic distances observed for each taxon against the observations for other taxa.
 
 ```
 Usage:
