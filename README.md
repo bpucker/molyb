@@ -16,6 +16,23 @@ Usage:
 `--out` specifies the full path to the output file.
 
 
+```
+Usage:
+  python3 branch_length_comparison.py --tree <FILE> --groups <FILE> --out <DIR>
+  --tree    STR    Input tree file
+  --groups  STR    Input sequence group file
+  --out     STR    Output folder
+
+```
+
+`--tree` specifies the full path to the input tree file.
+
+`--groups` specifies the full path to the input groups file. TAB-separated text file that contains a sequence ID in the first column and a group ID in the second column.
+
+`--out` specifies the full path to the output folder. This folder will be created if it does not exist already.
+
+
+
 # References
 
 This repository.
