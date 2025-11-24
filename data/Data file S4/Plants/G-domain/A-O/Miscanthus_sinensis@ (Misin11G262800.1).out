@@ -1,0 +1,97 @@
+########################################
+# Program: needle
+# Rundate: Mon 17 Feb 2025 09:02:53
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20250217-090249-0378-87823301-p1m.asequence
+#    -bsequence emboss_needle-I20250217-090249-0378-87823301-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Cnx1G
+# 2: Miscanthus_sinensis@
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 665
+# Identity:     161/665 (24.2%)
+# Similarity:   182/665 (27.4%)
+# Gaps:         460/665 (69.2%)
+# Score: 808.0
+# 
+#
+#=======================================
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si      1 MLQVEAALAAVLSAAASHAAPRAVPLHDALGLVLAEDVSAPDPLPPFRAS     50
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si     51 IKDGYAVVAADGPGEYPVVTESRAGDDALGVVVAPGTVAYVTTGGPIPDG    100
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    101 ADAVVQVEDIEQVPGGADGAKRVRILARAAEGQDIRNVGCDIEKDSIVLN    150
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    151 SGNHIGPAEIGLLATVGVTTVKVYPRPTIAVFSTGDELVQPATATLSHGQ    200
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    201 IRDSNRAMLLAAAVQEKCKVVDLGIAEDTEESLKEHMDAALRSDADIIIT    250
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    251 SGGVSMGDRDLVKPCLAKMGKIHFEKIRMKPGKPLTFAEITTRDTPKPSK    300
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    301 TVLAFGLPGNPVSCMVCFNLFVVPAIRLLSGWSNPNLQRVHVRLSHPLRA    350
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    351 DSHRTEFHRAVIRWVLDDGSGRPGFVAESTGRQASSRLLSMKSANALLEV    400
+
+Cnx1G              1 --------------------------------------------------      0
+                                                                       
+Miscanthus_si    401 PSTGQILAAGTSIQAILISDIITSPLDKLPAPSNPHPPHCGPSAKSISTD    450
+
+Cnx1G              1 --evpgp---eykvailtvsdtvsagagpdrsgpravsvvdssseklgga     45
+                       ::..|   |.||||||||||||:|||||||||||||||:|||||||||
+Miscanthus_si    451 VSQIASPQAAEVKVAILTVSDTVSSGAGPDRSGPRAVSVVNSSSEKLGGA    500
+
+Cnx1G             46 kvvatavvpdeverikdilqkwsdvdemdliltlggtgftprdvtpeatk     95
+                     .|||||||||||::||.||.:|||:|.::|||||||||||||||||||||
+Miscanthus_si    501 TVVATAVVPDEVDKIKGILIQWSDIDHVNLILTLGGTGFTPRDVTPEATK    550
+
+Cnx1G             96 kvieretpgllfvmmqeslkitpfamlsrsaagirgstliinmpgnpnav    145
+                     .||::|.|||.|||:||||||||||||||:.|||||||||||||||||||
+Miscanthus_si    551 SVIQKEAPGLTFVMLQESLKITPFAMLSRATAGIRGSTLIINMPGNPNAV    600
+
+Cnx1G            146 aecmeallpalkhalkqikgdkrekhpkhiphaeatlptdtwdqsyklay    195
+                     |||:|||||||||||||||||||||||:|.||| |..|.|.|::|::.| 
+Miscanthus_si    601 AECLEALLPALKHALKQIKGDKREKHPRHTPHA-AAAPVDQWERSFRAA-    648
+
+Cnx1G            196 etgekkeeagcscth    210
+                     ..|..:   ||||..
+Miscanthus_si    649 SAGSGR---GCSCDP    660
+
+
+#---------------------------------------
+#---------------------------------------
